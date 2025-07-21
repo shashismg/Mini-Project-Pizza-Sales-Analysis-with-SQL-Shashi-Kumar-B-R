@@ -53,8 +53,4 @@ This project involves analyzing a pizza sales dataset to extract insights about 
 
 - **Database:** MySQL
 - **Tools:** SQL Workbench or any SQL editor
-- **Dataset:** [Link to Dataset]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Dataset:** sql file attached
