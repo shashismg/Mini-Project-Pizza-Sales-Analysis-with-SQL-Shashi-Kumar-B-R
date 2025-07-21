@@ -4,7 +4,7 @@
 This SQL project involves analyzing a pizza sales dataset to gain insights about sales patterns, order distributions, and revenue. The dataset contains details about customer orders, pizzas, their categories, and prices. The project challenges students to write SQL queries to extract and analyze data based on progressively complex questions.
 
 ## Dataset Link:
-[Pizza Sales Dataset](#) *(Replace this with the actual link to the dataset)*
+sql file attached
 
 ## Project Overview:
 The goal of this project is to help you gain experience with SQL querying by analyzing pizza sales data. You will explore the dataset through a series of tasks that range from basic queries to more complex analyses. The focus will be on understanding sales trends, customer behavior, and pizza popularity.
